@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/thanveer08/leetcode_solutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thanveer08/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Design
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/thanveer08/leetcode_solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/thanveer08/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/thanveer08/leetcode_solutions/tree/master/0704-binary-search) |
 ## Matrix
