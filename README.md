@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/thanveer08/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/thanveer08/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thanveer08/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/thanveer08/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0682-baseball-game](https://github.com/thanveer08/leetcode_solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/thanveer08/leetcode_solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/thanveer08/leetcode_solutions/tree/master/0875-koko-eating-bananas) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/thanveer08/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/thanveer08/leetcode_solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/thanveer08/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/thanveer08/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/thanveer08/leetcode_solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/thanveer08/leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/thanveer08/leetcode_solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
