@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/thanveer08/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/thanveer08/leetcode_solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/thanveer08/leetcode_solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/thanveer08/leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/thanveer08/leetcode_solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/thanveer08/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/thanveer08/leetcode_solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/thanveer08/leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 ## Matrix
 |  |
 | ------- |
