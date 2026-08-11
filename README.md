@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/thanveer08/leetcode_solutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thanveer08/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0509-fibonacci-number](https://github.com/thanveer08/leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Design
 |  |
 | ------- |
@@ -83,4 +84,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/thanveer08/leetcode_solutions/tree/master/1095-find-in-mountain-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/thanveer08/leetcode_solutions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/thanveer08/leetcode_solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/thanveer08/leetcode_solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
