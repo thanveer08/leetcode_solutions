@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/thanveer08/leetcode_solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thanveer08/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/thanveer08/leetcode_solutions/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/thanveer08/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/thanveer08/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
@@ -101,6 +102,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/thanveer08/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/thanveer08/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/thanveer08/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/thanveer08/leetcode_solutions/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/thanveer08/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
