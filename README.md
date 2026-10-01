@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/thanveer08/leetcode_solutions/tree/master/0039-combination-sum) |
 | [0063-unique-paths-ii](https://github.com/thanveer08/leetcode_solutions/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/thanveer08/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
+| [0120-triangle](https://github.com/thanveer08/leetcode_solutions/tree/master/0120-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thanveer08/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thanveer08/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/thanveer08/leetcode_solutions/tree/master/0198-house-robber) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/thanveer08/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/thanveer08/leetcode_solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/thanveer08/leetcode_solutions/tree/master/0063-unique-paths-ii) |
+| [0120-triangle](https://github.com/thanveer08/leetcode_solutions/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/thanveer08/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/thanveer08/leetcode_solutions/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/thanveer08/leetcode_solutions/tree/master/0509-fibonacci-number) |
