@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/thanveer08/leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/thanveer08/leetcode_solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/thanveer08/leetcode_solutions/tree/master/1095-find-in-mountain-array) |
+| [1463-cherry-pickup-ii](https://github.com/thanveer08/leetcode_solutions/tree/master/1463-cherry-pickup-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/thanveer08/leetcode_solutions/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/thanveer08/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
+| [1463-cherry-pickup-ii](https://github.com/thanveer08/leetcode_solutions/tree/master/1463-cherry-pickup-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/thanveer08/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/thanveer08/leetcode_solutions/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/thanveer08/leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [1463-cherry-pickup-ii](https://github.com/thanveer08/leetcode_solutions/tree/master/1463-cherry-pickup-ii) |
 ## Recursion
 |  |
 | ------- |
