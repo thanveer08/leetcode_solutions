@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/thanveer08/leetcode_solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/thanveer08/leetcode_solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/thanveer08/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/thanveer08/leetcode_solutions/tree/master/0494-target-sum) |
 | [0682-baseball-game](https://github.com/thanveer08/leetcode_solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/thanveer08/leetcode_solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/thanveer08/leetcode_solutions/tree/master/0875-koko-eating-bananas) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/thanveer08/leetcode_solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/thanveer08/leetcode_solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/thanveer08/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/thanveer08/leetcode_solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/thanveer08/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [1463-cherry-pickup-ii](https://github.com/thanveer08/leetcode_solutions/tree/master/1463-cherry-pickup-ii) |
 ## Recursion
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/thanveer08/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/thanveer08/leetcode_solutions/tree/master/0039-combination-sum) |
+| [0494-target-sum](https://github.com/thanveer08/leetcode_solutions/tree/master/0494-target-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -240,10 +243,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/thanveer08/leetcode_solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/thanveer08/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/thanveer08/leetcode_solutions/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/thanveer08/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/thanveer08/leetcode_solutions/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
