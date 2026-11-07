@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thanveer08/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/thanveer08/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/thanveer08/leetcode_solutions/tree/master/0039-combination-sum) |
+| [0049-group-anagrams](https://github.com/thanveer08/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/thanveer08/leetcode_solutions/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/thanveer08/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0120-triangle](https://github.com/thanveer08/leetcode_solutions/tree/master/0120-triangle) |
@@ -48,11 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/thanveer08/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/thanveer08/leetcode_solutions/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/thanveer08/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/thanveer08/leetcode_solutions/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/thanveer08/leetcode_solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/thanveer08/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/thanveer08/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Greedy
 |  |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thanveer08/leetcode_solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/thanveer08/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/thanveer08/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/thanveer08/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/thanveer08/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
