@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/thanveer08/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/thanveer08/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/thanveer08/leetcode_solutions/tree/master/0125-valid-palindrome) |
+| [1143-longest-common-subsequence](https://github.com/thanveer08/leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/thanveer08/leetcode_solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/thanveer08/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/thanveer08/leetcode_solutions/tree/master/0518-coin-change-ii) |
+| [1143-longest-common-subsequence](https://github.com/thanveer08/leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/thanveer08/leetcode_solutions/tree/master/1463-cherry-pickup-ii) |
 ## Recursion
 |  |
@@ -264,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/thanveer08/leetcode_solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/thanveer08/leetcode_solutions/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/thanveer08/leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
